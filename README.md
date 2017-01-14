@@ -7,4 +7,3 @@ Just make a upstream version of [Capser](https://github.com/TryGhost/Casper) and
 * Google Analytics
 * Disqus
 
-*Maybe more in the future...maybe XD*
